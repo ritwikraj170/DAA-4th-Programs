@@ -45,7 +45,7 @@ class Stack
        }
        }
 }
-   public class program1b
+   public class Program1b
    {
        public static void main(String args[])
        {
